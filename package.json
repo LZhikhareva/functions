@@ -2,7 +2,7 @@
   "name": "functions-task",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/js/app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
     "start": "webpack serve --mode development",
